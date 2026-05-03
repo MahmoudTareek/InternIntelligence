@@ -1,16 +1,23 @@
-# face_detection_application
+# Face Detection Flutter Application
 
-A new Flutter project.
+Developed a Face Detection Application using Google's ML Kit Face Detection
 
-## Getting Started
+## Application Features
 
-This project is a starting point for a Flutter application.
+- Detect Faces using Live Camera.
+  
+- Detect Faces from an image Select From Gallery.
+  
+- The Application can Detect the number of the people in the camera or in the image.
+  
+- The Application can Detect Human Faces in different conditions such as:
 
-A few resources to get you started if this is your first Flutter project:
+  Beside humen faces.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  Black & white images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Colse & open human eyes.
+
+  People wearing glasses.
+  
+  
